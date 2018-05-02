@@ -2,7 +2,7 @@
   "name": "blog",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "https://dkdbcode.github.io/blog/",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "dependencies": {
